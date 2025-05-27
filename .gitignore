@@ -1,0 +1,6 @@
+generate_quotes.py
+
+# ignore the entire data generation folder
+data_generation/
+*.pyc
+generated_quote_data_copy.csv
