@@ -5,10 +5,7 @@ from sklearn.preprocessing import StandardScaler
 df = pd.read_csv("generated_quote_data.csv")  #####//data loaded from the generated data file
 
 
-# print("Preview of the data:")
-# print(df.head())
 
-# 3. check data is nullll
 df["surface_treatment"] = df["surface_treatment"].fillna("None")
 df = df.fillna(method='ffill')  
 
