@@ -4,11 +4,13 @@ A machine learning web application built with **FastAPI** (backend) and **React.
 
 ---
 
+
 ## 🚀 Live Demo
 
-https://odens-assignmnet-frontend-aseu.vercel.app/
+- 🖥️ **Frontend**: [https://odens-assignmnet-frontend-aseu.vercel.app](https://odens-assignmnet-frontend-aseu.vercel.app)
+- 🔌 **Backend API**: [https://quote-predictor-api.onrender.com/predict](https://quote-predictor-api.onrender.com/predict)
 
----
+
 
 ## 🎯 Features
 
@@ -21,10 +23,22 @@ https://odens-assignmnet-frontend-aseu.vercel.app/
 
 
 
-## 🧠 Machine Learning Details
 
-- **Algorithm**: `RandomForestRegressor`
-- **Preprocessing**:
-  - Categorical encoding via `pd.get_dummies()`
-  - Date transformed into year, month, and quarter
-  - Features scaled using `StandardScaler`
+
+## 🖥️ Run the Project Locally
+
+### ✅ Prerequisites
+
+Before you begin, make sure you have the following installed:
+
+- [Python 3.8+](https://www.python.org/downloads/)
+- pip (Python package installer)
+
+---
+
+### 📦 Backend Setup (FastAPI)
+
+1. **Clone the repository**:
+   ```bash
+   git clone
+   cd your-repo
