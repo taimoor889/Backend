@@ -1,4 +1,4 @@
-# 🏗️ Aluminum Quote Price Prediction App
+**# 🏗 Price Prediction App**
 
 A machine learning web application built with **FastAPI** (backend) and **React.js** (frontend) that predicts the price per aluminum piece based on material, dimensions, and treatment.
 
